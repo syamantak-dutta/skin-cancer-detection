@@ -1,4 +1,4 @@
-#Original dataset link
+# Original dataset link
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
 # Skin Cancer Detection and Image Generation with CNN and GAN
