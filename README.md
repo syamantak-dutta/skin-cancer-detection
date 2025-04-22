@@ -19,6 +19,3 @@ This project focuses on detecting skin cancer using Convolutional Neural Network
 - TensorFlow & Keras
 - NumPy, Pandas
 - PIL (Python Imaging Library)
-
-## 🗂️ File Structure
-
